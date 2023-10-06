@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-- [Active Directory HomeLab](
+- <b>[Active Directory HomeLab]()<b>
 
 - <b>PowerShell</b>
   - 
@@ -11,7 +11,9 @@
   - 
 - <b>Python</b>
   - 
-
+  - 
+  - 
+  - 
 <h2> 🧾 Certifications:</h2>
 
 - [Google IT Support Professional](https://github.com/J-Royy/Certifications/blob/main/GoogleITSupportProfessional.pdf)
