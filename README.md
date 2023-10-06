@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamie! <br/><a href="https://github.com/J-Royy">Programmer</a>, <a href="https://www.linkedin.com/">Cybersecurity Student</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
+<h1>Hi, I'm Jamie! <br/><a href="https://github.com/J-Royy">Programmer</a>, <a href="https://www.linkedin.com/">I.T./Cybersecurity Student</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
 
 <h2>👨‍💻 General IT Projects:</h2>
 
@@ -14,7 +14,7 @@
 
 <h2> 🧾 Certifications:</h2>
 
-- [Google IT Support Professional]
+- [Google IT Support Professional](https://github.com/J-Royy/Certifications/blob/main/GoogleITSupportProfessional.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
