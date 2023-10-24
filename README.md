@@ -16,7 +16,7 @@
   - 
 <h2> 🧾 Certifications:</h2>
 
-- [Google IT Support Professional](https://github.com/J-Royy/Certifications/blob/main/GoogleITSupportProfessional.pdf)
+- [Google IT Support Professional](https://github.com/J-Royy/Certifications/blob/main/Google%20IT%20Support.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
